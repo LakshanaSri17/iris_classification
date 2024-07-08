@@ -14,7 +14,7 @@ Prerequisites
 
 Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/iris-linear-regression.git
+git clone https://github.com/LakshanaSri17/iris-linear-regression.git
 
 2. Install the required libraries:
 pip install -r requirements.txt
